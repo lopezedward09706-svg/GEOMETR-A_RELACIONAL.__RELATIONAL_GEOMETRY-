@@ -65,7 +65,7 @@ El corpus está indexado y disponible para la comunidad científica.
 Si utilizas este código, las ecuaciones o el marco teórico en tu investigación, **estás obligado a citar la obra** (ver archivo `LICENSE`).
 
 **Formato de cita en texto:**
-> López, E. P. (2026). *Geometría Relacional: emergencia topológica de la masa, el espín y las fuerzas desde una red discreta de fases*. ORCID: 0009-0009-0717-5536. DOI: 10.5281/zenodo.23635759
+> López, E. P. (2026). *Geometría Relacional: emergencia topológica de la masa, el espín y las fuerzas desde una red discreta de fases*. ORCID: 0009-0009-0717-5536. 10.5281/zenodo.23823769
 
 **BibTeX:**
 ```bibtex
