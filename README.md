@@ -92,3 +92,101 @@ Eres libre de usar, modificar y distribuir el código y las ecuaciones, siempre 
 "La materia es la memoria topológica de una ruptura primordial; el tiempo, la huella de esa ruptura; la gravedad, la elasticidad del tejido." — Eduardo Pérez López (Edward P. López)
 
 ```
+# 🌐 Índice de Enlaces del Corpus (Geometría Relacional)
+
+## 🚀 Repositorio Principal (Actual)
+* **[Repositorio de Trabajo Actual](https://github.com/lopezedward09706-svg/GEOMETR-A_RELACIONAL.__RELATIONAL_GEOMETRY-.git)** (Clonar vía Git)
+
+## 📚 Zenodo (DOIs y Registros)
+### DOIs Canónicos
+* https://doi.org/10.5281/zenodo.18044204
+* https://doi.org/10.5281/zenodo.18383303
+* https://doi.org/10.5281/zenodo.18866970
+* https://doi.org/10.5281/zenodo.19109927
+* https://doi.org/10.5281/zenodo.19357886
+* https://doi.org/10.5281/zenodo.19444784
+* https://doi.org/10.5281/zenodo.19589403
+* https://doi.org/10.5281/zenodo.21367974
+* https://doi.org/10.5281/zenodo.23185328
+* https://doi.org/10.5281/zenodo.18273520
+* https://doi.org/10.5281/zenodo.18670033
+* https://doi.org/10.5281/zenodo.18923516
+* https://doi.org/10.5281/zenodo.18945725
+* https://doi.org/10.5281/zenodo.19328545
+
+### DOIs Mapeados / Alternativos
+* https://doi.org/10.5281/zenodo.18044203
+* https://doi.org/10.5281/zenodo.18383302
+* https://doi.org/10.5281/zenodo.18766938
+* https://doi.org/10.5281/zenodo.19109926
+* https://doi.org/10.5281/zenodo.19328385
+* https://doi.org/10.5281/zenodo.19357967
+* https://doi.org/10.5281/zenodo.19616563
+* https://doi.org/10.5281/zenodo.23185327
+
+### Registros Directos Zenodo
+* https://zenodo.org/records/18044204
+* https://zenodo.org/records/18383303
+* https://zenodo.org/records/18866970
+* https://zenodo.org/records/19109927
+* https://zenodo.org/records/19357886
+* https://zenodo.org/records/19444784
+* https://zenodo.org/records/19589403
+* https://zenodo.org/records/21367974
+* https://zenodo.org/records/23185328
+* https://zenodo.org/records/18273520
+* https://zenodo.org/records/18670033
+* https://zenodo.org/records/18923516
+* https://zenodo.org/records/18945725
+* https://zenodo.org/records/19328545
+
+## 💻 Repositorios GitHub (`@lopezedward09706-svg`)
+* https://github.com/lopezedward09706-svg/geometria-relacional-rg
+* https://github.com/lopezedward09706-svg/geometria-relacional-rg-
+* https://github.com/lopezedward09706-svg/RG-GEOMETRIA-RELACIONAL
+* https://github.com/lopezedward09706-svg/Geometr-a-Relacional-RG-libro-maestro-
+* https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-
+* https://github.com/lopezedward09706-svg/Geometr-a-Relacional-RG-RQNT-Y-ABC-
+* https://github.com/lopezedward09706-svg/geometria-relacional_verificacion-falsacion
+* https://github.com/lopezedward09706-svg/Compendio-interno
+* https://github.com/lopezedward09706-svg/RGEPL
+* https://github.com/lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory
+* https://github.com/lopezedward09706-svg/RQNTV1.0
+* https://github.com/lopezedward09706-svg/RQNT-V.2
+* https://github.com/lopezedward09706-svg/RQNT-THEORY-EXPLARE-
+* https://github.com/lopezedward09706-svg/LAB-RQNT
+* https://github.com/lopezedward09706-svg/Laboratorio-Digital-R-QNT
+* https://github.com/lopezedward09706-svg/ABC2
+* https://github.com/lopezedward09706-svg/ABC-QUANTUM-
+* https://github.com/lopezedward09706-svg/ABC-TEORI
+* https://github.com/lopezedward09706-svg/PROYECTO-ABC
+* https://github.com/lopezedward09706-svg/Proyecto-ABC-v2.0---Reality-Dashboard
+* https://github.com/lopezedward09706-svg/ABC-Theory-Quantum-Gravity-Simulator
+* https://github.com/lopezedward09706-svg/Edward-P-rez-L-pez
+* https://github.com/lopezedward09706-svg/Edward-P.-L-pez-0009-0009-0717-5536
+* https://github.com/lopezedward09706-svg/ANALISIS-DE-DATOS-
+* https://github.com/lopezedward09706-svg/PEEREYE-3RE3-
+* https://github.com/lopezedward09706-svg/EPKL-IA
+* https://github.com/lopezedward09706-svg/1
+* https://github.com/lopezedward09706-svg/.github
+
+## 🆔 Perfiles, Academia y Foros
+* https://orcid.org/0009-0009-0717-5536
+* https://orcid.org/0009-0008-2179-6809
+* https://independent.academia.edu/EdwardLopez143
+* https://www.academia.edu/170211457/Relational_Geometry_Geometr%C3%ADa_relacional_RG_manifiesto_fundasional_de_el_libro_maestro_Antes_llamada_R_QNT_ABC_
+* https://www.academia.edu/167710844/GEOMETR%C3%8DA_RELACIONAL_RG_
+* https://www.academia.edu/170105603/Geometr%C3%ADa_Relacional_RG_actualizaci%C3%B3n_Antes_llamada_R_QNT_ABC_
+* https://www.academia.edu/169071343/Geometr%C3%ADa_Relacional_RG_Antes_llamada_R_QNT_ABC_Derivacion_de_h
+* https://www.academia.edu/167710865/Geometr%C3%ADa_Relacional_RG_Edward_P_L%C3%B3pez_Paul_Dyrac
+* https://www.scienceforums.net/discover/?view=expanded&csrfKey=6b3693ad6716fd1db6c0ed509ceff79c
+
+## 🔗 Dominios Base
+* https://medium.com
+* https://quora.com
+* https://zenodo.org
+* https://doi.org
+* https://orcid.org
+* https://academia.edu
+* https://github.com
+
