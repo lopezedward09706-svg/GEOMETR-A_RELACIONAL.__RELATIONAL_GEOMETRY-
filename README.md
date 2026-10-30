@@ -77,3 +77,18 @@ Si utilizas este código, las ecuaciones o el marco teórico en tu investigació
   doi={10.5281/zenodo.23635759},
   note={ORCID: 0009-0009-0717-5536}
 }
+
+
+
+---
+
+⚖️ Licencia
+
+Este proyecto está bajo la Licencia MIT Modificada con Cláusula de Atribución Obligatoria. 
+Eres libre de usar, modificar y distribuir el código y las ecuaciones, siempre y cuando se incluya la cita académica explícita al autor y al marco de Geometría Relacional en cualquier obra derivada o publicación. Consulta el archivo LICENSE para más detalles.
+
+---
+
+"La materia es la memoria topológica de una ruptura primordial; el tiempo, la huella de esa ruptura; la gravedad, la elasticidad del tejido." — Eduardo Pérez López (Edward P. López)
+
+```
